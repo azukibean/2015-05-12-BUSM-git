@@ -1,4 +1,4 @@
-#computational-project-cookie-cutter
+#Boston University computational-project-cookie-cutter
 A cookie cutter (aka project template) to set up a folder structure for a computational project.
 This is a quick way to setup a folder structure that follows one standard to organize a project.
 This helps with project management, reproducibility, sharing, and publishing your data, analysis, and results.
