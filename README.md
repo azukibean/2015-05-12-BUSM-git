@@ -1,5 +1,7 @@
 #Boston University computational-project-cookie-cutter
 
+# My name is Kevin!
+
 A workshop at Boston University School of Medicine
 
 A cookie cutter (aka project template) to set up a folder structure for a computational project.
