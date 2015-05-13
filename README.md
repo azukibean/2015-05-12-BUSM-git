@@ -1,5 +1,5 @@
 #Boston University computational-project-cookie-cutter
-A workshop at BUSM
+A workshop at BU School of Medicine
 
 A cookie cutter (aka project template) to set up a folder structure for a computational project.
 This is a quick way to setup a folder structure that follows one standard to organize a project.
